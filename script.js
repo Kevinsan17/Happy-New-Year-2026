@@ -2,7 +2,7 @@
    1. CONFIGURACIÓN GENERAL
    ========================================= */
 const TARGET_DATE_STRING = "2026-01-01T00:00:00+02:00";
-const DEBUG_MODE = true; // CAMBIAR A 'false' PARA VERSIÓN FINAL
+const DEBUG_MODE = false; // CAMBIAR A 'false' PARA VERSIÓN FINAL
 
 /* =========================================
    2. DATOS: LOS 12 DESEOS
@@ -398,4 +398,5 @@ function initFireworks() {
         requestAnimationFrame(animateF);
     }
     animateF();
+
 }
