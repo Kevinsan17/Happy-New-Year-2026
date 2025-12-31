@@ -250,7 +250,7 @@ h3,
 #sub-text {
     transform: translateY(30px);
     font-size: clamp(1.2rem, 4vw, 2.5rem);
-    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-family: 'Comic Sans MS', sans-serif;
     margin-top: 10px;
 }
 
@@ -450,7 +450,7 @@ h3,
     font-size: 2.5rem;
     color: var(--text-main);
     margin-bottom: 1rem;
-    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-family: 'Comic Sans MS', sans-serif;
     text-align: center;
     padding: 0 1rem;
     animation: fadeInUp 1s ease forwards;
@@ -640,7 +640,7 @@ h3,
 .wish-text {
     font-size: 1.25rem;
     color: var(--text-main);
-    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-family: 'Comic Sans MS', sans-serif;
 }
 
 .wish-buttons {
@@ -734,7 +734,7 @@ h3,
 }
 
 .letter-text {
-    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-family: 'Comic Sans MS', sans-serif;
     font-size: 1.8rem;
     line-height: 1.6;
     color: var(--text-main);
@@ -779,7 +779,7 @@ h3,
 }
 
 .final-signature {
-    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-family: 'Comic Sans MS', sans-serif;
     font-style: italic;
     font-size: 1.5rem;
     color: var(--gold);
